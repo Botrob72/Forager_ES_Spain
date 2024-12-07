@@ -1,4 +1,4 @@
-# Forager_ES_Spain-v1.1
+# Forager_ES_Spain
 Mod de Forager que añade el idioma de español España.
 Instruciones:
 
